@@ -13,15 +13,15 @@ Then open <http://127.0.0.1:4000>.
 
 ## Publish to GitHub Pages
 
-Create a public repository named `LTao.github.io` under the GitHub user or
-organization `LTao`, then run:
+Create a public repository named `laytao.github.io` under the GitHub user or
+organization `LayTAO`, then run:
 
 ```bash
-git remote add origin https://github.com/LTao/LTao.github.io.git
+git remote add origin https://github.com/LayTAO/laytao.github.io.git
 git push -u origin main
 ```
 
-GitHub Pages will publish the site at <https://LTao.github.io>.
+GitHub Pages will publish the site at <https://laytao.github.io>.
 
 To enable automatic Google Scholar citation updates, add a repository Actions
 secret named `GOOGLE_SCHOLAR_ID` with the value `J4SIspEAAAAJ`, then enable the

@@ -8,9 +8,9 @@
 # Site Settings
 title                    : "Tao Lei"
 description              : "Incoming M.Phil. student at HKUST (Guangzhou), working on large language models for software engineering, mutation testing, and test generation."
-url                      : "https://LTao.github.io"
+url                      : "https://laytao.github.io"
 baseurl                  : ""
-repository               : "LTao/LTao.github.io"
+repository               : "LayTAO/laytao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
