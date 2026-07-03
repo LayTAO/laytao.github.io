@@ -1,5 +1,5 @@
 _site/
-vendor/
+/vendor/
 .bundle/
 push.sh
 .DS_Store
