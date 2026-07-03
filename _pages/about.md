@@ -117,12 +117,3 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 # 💻 Research Experience
 
 - **Research Assistant**, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), December 2025 – March 2026.
-
-<div class="contact-card" markdown="1">
-
-### Let's connect
-
-I welcome conversations about LLM4SE, mutation testing, and search-based software engineering.  
-[Email](mailto:weaslypaper@163.com) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=J4SIspEAAAAJ) · [GitHub](https://github.com/weaslypaper-coder) · [ORCID](https://orcid.org/0009-0008-4014-4013)
-
-</div>
