@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Tao Lei — incoming M.Phil. student at HKUST (Guangzhou), researching LLMs for software engineering."
+excerpt: "Tao Lei — researcher in LLMs for software engineering."
 author_profile: true
 redirect_from:
   - /about/
@@ -16,7 +16,7 @@ redirect_from:
 
 ## Hi, I'm Tao Lei.
 
-I am an incoming M.Phil. student at **The Hong Kong University of Science and Technology (Guangzhou)**. My research sits at the intersection of **large language models** and **software engineering**, with a particular interest in building reliable and efficient techniques for software testing.
+My research sits at the intersection of **large language models** and **software engineering**, with a particular interest in building reliable and efficient techniques for software testing.
 
 I received my B.E. in **Software Engineering** from **Xuzhou University of Technology**. My undergraduate research focused on high-precision test-data generation for mutation testing. From December 2025 to March 2026, I worked as a Research Assistant at the **Systems Hub, HKUST (Guangzhou)**.
 
@@ -27,11 +27,7 @@ I am always happy to discuss research ideas and potential collaborations. Feel f
 ### Research Interests
 
 <div class="research-tags">
-  <span>Large Language Models</span>
-  <span>LLMs for Software Engineering</span>
-  <span>Mutation Testing</span>
-  <span>Test-Data Generation</span>
-  <span>AI-driven Defect Prediction</span>
+  <span>LLMs4SE</span>
 </div>
 
 <span class="anchor" id="news"></span>

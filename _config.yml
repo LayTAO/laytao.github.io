@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tao Lei"
-description              : "Incoming M.Phil. student at HKUST (Guangzhou), working on large language models for software engineering, mutation testing, and test generation."
+description              :
 url                      : "https://laytao.github.io"
 baseurl                  : ""
 repository               : "LayTAO/laytao.github.io"
@@ -25,9 +25,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tao Lei"
   avatar           : "images/profile.jpg"
-  bio              : "Incoming M.Phil. student at HKUST (Guangzhou)"
+  bio              :
   location         : "Guangzhou, China"
-  employer         : "HKUST (Guangzhou)"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=J4SIspEAAAAJ"
   email            : "weaslypaper@163.com"
