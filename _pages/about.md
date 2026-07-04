@@ -12,8 +12,6 @@ redirect_from:
 
 <div class="intro-card" markdown="1">
 
-<div class="eyebrow">LLM4SE · MUTATION TESTING · TEST GENERATION</div>
-
 ## Hi, I'm Tao Lei.
 
 My research sits at the intersection of **large language models** and **software engineering**, with a particular interest in building reliable and efficient techniques for software testing.
@@ -22,12 +20,6 @@ I received my B.E. in **Software Engineering** from **Xuzhou University of Techn
 
 I am always happy to discuss research ideas and potential collaborations. Feel free to reach me by [email](mailto:weaslypaper@163.com).
 
-</div>
-
-### Research Interests
-
-<div class="research-tags">
-  <span>LLMs4SE</span>
 </div>
 
 <span class="anchor" id="news"></span>

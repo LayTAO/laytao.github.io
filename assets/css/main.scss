@@ -132,37 +132,13 @@ body {
     box-shadow: 0 12px 35px rgba(34, 75, 141, .08);
 
     h2 {
-        margin: .35rem 0 1rem;
+        margin: 0 0 1rem;
         font-size: 2rem;
         color: #17345f;
     }
 
     p:last-child {
         margin-bottom: 0;
-    }
-}
-
-.eyebrow {
-    color: #3974ba;
-    font-size: .78rem;
-    font-weight: 700;
-    letter-spacing: .09em;
-}
-
-.research-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .55rem;
-    margin: .8rem 0 2rem;
-
-    span {
-        padding: .42rem .72rem;
-        color: #245789;
-        border: 1px solid #cfe0f1;
-        border-radius: 999px;
-        background: #f5f9fd;
-        font-size: .9rem;
-        font-weight: 600;
     }
 }
 
@@ -223,29 +199,26 @@ body {
     font-size: .92rem !important;
 }
 
-.contact-card {
-    margin: 2.5rem 0 1rem;
-    padding: 1.35rem 1.5rem;
-    border-left: 4px solid #3974ba;
-    border-radius: 0 12px 12px 0;
-    background: #f5f9fd;
-
-    h3 {
-        margin-top: 0;
-    }
-
-    p:last-child {
-        margin-bottom: 0;
-    }
-}
-
 .author__avatar img {
-    aspect-ratio: 1 / 1;
+    width: 100%;
+    max-width: 210px;
+    aspect-ratio: 4 / 5;
     object-fit: cover;
-    object-position: center 35%;
+    object-position: center 20%;
+    border-radius: 16px;
 }
 
 @media (max-width: 767px) {
+    .profile_box > .author__avatar {
+        width: 105px;
+        flex: 0 0 105px;
+    }
+
+    .author__avatar img {
+        min-width: 105px;
+        max-width: 105px;
+    }
+
     .intro-card {
         padding: 1.3rem;
 
