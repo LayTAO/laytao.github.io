@@ -24,21 +24,6 @@ I am always happy to discuss research ideas and potential collaborations. Feel f
 
 </div>
 
-<span class="anchor" id="news"></span>
-
-# 🔥 News
-
-- **2026.09** — I will begin my M.Phil. study at HKUST (Guangzhou), focusing on LLMs for software engineering.
-- **2026.03** — I completed my research assistantship at the Systems Hub, HKUST (Guangzhou).
-- **2025.12** — Our paper on efficient multi-path coverage in mutation testing was published in *Mathematics*.
-- **2025.10** — I was honored to speak as a student representative at the freshman opening ceremony.
-- **2025.09** — I received a Red Bird MPhil admission offer from HKUST (Guangzhou).
-- **2025.08** — I received the admission notice for the HKUST (Guangzhou) camp.
-- **2025.07** — My second invention patent was successfully granted after being rejected twice!
-- **2025.06** — Our paper on SI_CNNpro-enhanced test-data generation was published in *Journal of Systems and Software*.
-- **2025.05** — I was honored to be selected as one of the inaugural Youth Inspiration honorees at my university.
-- **2024.05** — My first invention patent was successfully granted!
-
 <span class="anchor" id="publications"></span>
 
 # 📝 Selected Publications
@@ -95,6 +80,21 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 - **Scheduling Method of Blocking Water Turbines Based on Improved Genetic Algorithm.**  
   **Lei Tao**, Xiangying Dang  
   **已授权** · Chinese invention patent · **CN 118014316 B**, 2024. [[Patent PDF]](https://weaslypaper-coder.github.io/LT/files/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A91.pdf)
+
+<span class="anchor" id="news"></span>
+
+# 🔥 News
+
+- **2026.09** — I will begin my M.Phil. study at HKUST (Guangzhou), focusing on LLMs for software engineering.
+- **2026.03** — I completed my research assistantship at the Systems Hub, HKUST (Guangzhou).
+- **2025.12** — Our paper on efficient multi-path coverage in mutation testing was published in *Mathematics*.
+- **2025.10** — I was honored to speak as a student representative at the freshman opening ceremony.
+- **2025.09** — I received a Red Bird MPhil admission offer from HKUST (Guangzhou).
+- **2025.08** — I received the admission notice for the HKUST (Guangzhou) camp.
+- **2025.07** — My second invention patent was successfully granted after being rejected twice!
+- **2025.06** — Our paper on SI_CNNpro-enhanced test-data generation was published in *Journal of Systems and Software*.
+- **2025.05** — I was honored to be selected as one of the inaugural Youth Inspiration honorees at my university.
+- **2024.05** — My first invention patent was successfully granted!
 
 <span class="anchor" id="awards"></span>
 
