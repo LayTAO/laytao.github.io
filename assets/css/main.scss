@@ -43,7 +43,7 @@
 .paper-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
@@ -55,13 +55,22 @@
         display: flex;
         width: 100%;
         order: 2;
+
+        > div {
+            position: relative;
+            display: inline-block;
+            line-height: 0;
+        }
+
         img {
-            width: 165px;
-            max-width: 165px;
+            display: block;
+            width: auto;
+            height: 200px;
+            max-height: 200px;
             aspect-ratio: 300 / 500;
             box-shadow: 0 6px 18px rgba(24, 62, 105, .15);
             object-fit: cover;
-            object-position: center;
+            object-position: center top;
             border-radius: 4px;
         }
     }
@@ -155,16 +164,13 @@ body {
         min-width: auto;
         max-width: none;
         flex: 0 0 auto;
-
-        img {
-            width: 165px;
-            max-width: 165px;
-        }
+        align-self: flex-start;
     }
 
     .paper-box-text {
         flex: 1;
         padding-left: 0;
+        align-self: flex-start;
 
         h3 {
             margin-top: 0;
@@ -304,8 +310,8 @@ body {
         gap: .8rem;
 
         .paper-box-image img {
-            width: 120px;
-            max-width: 120px;
+            height: 165px;
+            max-height: 165px;
         }
     }
 
