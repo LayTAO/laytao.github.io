@@ -113,51 +113,6 @@ body {
     background: linear-gradient(180deg, #f7faff 0, #ffffff 260px);
 }
 
-@include breakpoint($large) {
-    #main {
-        display: flex;
-        justify-content: center;
-        align-items: flex-start;
-        gap: 2.5rem;
-        max-width: 1080px;
-        margin-left: auto;
-        margin-right: auto;
-        float: none;
-
-        &::before,
-        &::after {
-            display: none;
-        }
-
-        > .sidebar,
-        > .page {
-            float: none;
-            width: auto;
-            margin-left: 0;
-            margin-right: 0;
-            padding-left: 0;
-            padding-right: 0;
-        }
-
-        > .sidebar {
-            flex: 0 0 200px;
-            max-width: 200px;
-        }
-
-        > .page {
-            flex: 1 1 720px;
-            min-width: 0;
-            max-width: 720px;
-        }
-    }
-
-    .masthead__inner-wrap {
-        max-width: 1080px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-}
-
 .masthead {
     background: rgba(255, 255, 255, .92);
     backdrop-filter: blur(12px);
@@ -196,7 +151,6 @@ body {
     }
 
     .paper-box-text {
-        padding-left: 0;
         flex: 1;
 
         h3 {
@@ -244,26 +198,7 @@ body {
     font-size: .92rem !important;
 }
 
-.author__avatar img {
-    width: 100%;
-    max-width: 165px;
-    aspect-ratio: 3 / 5;
-    object-fit: cover;
-    object-position: center 18%;
-    border-radius: 50%;
-}
-
 @media (max-width: 767px) {
-    .profile_box > .author__avatar {
-        width: 88px;
-        flex: 0 0 88px;
-    }
-
-    .author__avatar img {
-        min-width: 88px;
-        max-width: 88px;
-    }
-
     .intro-card {
         padding: 1.3rem;
 
