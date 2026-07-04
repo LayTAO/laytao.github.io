@@ -56,9 +56,13 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            width: 165px;
+            max-width: 165px;
+            aspect-ratio: 300 / 500;
+            box-shadow: 0 6px 18px rgba(24, 62, 105, .15);
             object-fit: cover;
+            object-position: center;
+            border-radius: 4px;
         }
     }
     
@@ -145,17 +149,39 @@ body {
 .paper-box {
     gap: 1.25rem;
     padding: 1.6rem 0;
+    align-items: flex-start;
 
     .paper-box-image {
-        min-width: 190px;
+        min-width: auto;
+        max-width: none;
+        flex: 0 0 auto;
+
+        img {
+            width: 165px;
+            max-width: 165px;
+        }
     }
 
     .paper-box-text {
         flex: 1;
+        padding-left: 0;
 
         h3 {
             margin-top: 0;
             line-height: 1.35;
+        }
+    }
+
+    @include breakpoint($medium) {
+        .paper-box-image {
+            min-width: auto;
+            max-width: none;
+            width: auto;
+        }
+
+        .paper-box-text {
+            max-width: none;
+            padding-left: 1.5em;
         }
     }
 }
@@ -276,6 +302,11 @@ body {
 
     .paper-box {
         gap: .8rem;
+
+        .paper-box-image img {
+            width: 120px;
+            max-width: 120px;
+        }
     }
 
     .paper-visual {
