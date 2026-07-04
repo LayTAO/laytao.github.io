@@ -87,7 +87,7 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 <span class="anchor" id="patents"></span>
 
-# 📜 发明专利
+# 📜 Invention Patents
 
 - **Software Testing Method for Intelligent Equipment Combining CNN and Genetic Algorithm.**  
   **Lei Tao**, Xiangying Dang, Bingsen Huang, Tianhao Chen  
