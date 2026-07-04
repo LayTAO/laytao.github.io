@@ -87,10 +87,14 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 <span class="anchor" id="patents"></span>
 
-# 📜 Patents
+# 📜 发明专利
 
-- **Software Testing Method for Intelligent Equipment Combining CNN and Genetic Algorithm.** **Lei Tao**, Xiangying Dang, Bingsen Huang, Tianhao Chen. Authorized Chinese invention patent, **CN 119988236 B**, 2025. [[Patent PDF]](https://weaslypaper-coder.github.io/LT/files/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A92.pdf)
-- **Scheduling Method of Blocking Water Turbines Based on Improved Genetic Algorithm.** **Lei Tao**, Xiangying Dang. Authorized Chinese invention patent, **CN 118014316 B**, 2024. [[Patent PDF]](https://weaslypaper-coder.github.io/LT/files/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A91.pdf)
+- **Software Testing Method for Intelligent Equipment Combining CNN and Genetic Algorithm.**  
+  **Lei Tao**, Xiangying Dang, Bingsen Huang, Tianhao Chen  
+  **已授权** · Chinese invention patent · **CN 119988236 B**, 2025. [[Patent PDF]](https://weaslypaper-coder.github.io/LT/files/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A92.pdf)
+- **Scheduling Method of Blocking Water Turbines Based on Improved Genetic Algorithm.**  
+  **Lei Tao**, Xiangying Dang  
+  **已授权** · Chinese invention patent · **CN 118014316 B**, 2024. [[Patent PDF]](https://weaslypaper-coder.github.io/LT/files/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A91.pdf)
 
 <span class="anchor" id="education"></span>
 
