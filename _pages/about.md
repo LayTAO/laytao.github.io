@@ -14,7 +14,7 @@ redirect_from:
 
 ## Hi, I'm Tao Lei.
 
-I am a new **MPhil student** in **Software Engineering** at **The Hong Kong University of Science and Technology (Guangzhou)**.
+I am a new **MPhil student** at **The Hong Kong University of Science and Technology (Guangzhou)**.
 
 I received my B.E. in **Software Engineering** from **Xuzhou University of Technology**. During my undergraduate studies, I was a core member of the university's **Intelligent Software Testing Lab**, where I conducted in-depth research on **Search-Based Software Engineering (SBSE)** and **evolutionary algorithms**, and applied these techniques to tackle complex software testing challenges.
 
