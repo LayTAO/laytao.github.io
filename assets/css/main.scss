@@ -65,12 +65,12 @@
         img {
             display: block;
             width: auto;
-            height: 200px;
-            max-height: 200px;
-            aspect-ratio: 300 / 500;
+            height: auto;
+            max-height: 150px;
+            max-width: 110px;
             box-shadow: 0 6px 18px rgba(24, 62, 105, .15);
-            object-fit: cover;
-            object-position: center top;
+            object-fit: contain;
+            object-position: left top;
             border-radius: 4px;
         }
     }
@@ -83,8 +83,10 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 0;
+            max-width: none;
+            width: auto;
+            flex: 0 0 auto;
             order: 1;
         }
         
@@ -310,8 +312,8 @@ body {
         gap: .8rem;
 
         .paper-box-image img {
-            height: 165px;
-            max-height: 165px;
+            max-height: 130px;
+            max-width: 95px;
         }
     }
 
