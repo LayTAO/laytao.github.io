@@ -31,8 +31,13 @@ I am always happy to discuss research ideas and potential collaborations. Feel f
 - **2026.09** — I will begin my M.Phil. study at HKUST (Guangzhou), focusing on LLMs for software engineering.
 - **2026.03** — I completed my research assistantship at the Systems Hub, HKUST (Guangzhou).
 - **2025.12** — Our paper on efficient multi-path coverage in mutation testing was published in *Mathematics*.
-- **2025.08** — Our invention patent on CNN- and genetic-algorithm-based software testing was granted.
+- **2025.10** — I was honored to speak as a student representative at the freshman opening ceremony.
+- **2025.09** — I received a Red Bird MPhil admission offer from HKUST (Guangzhou).
+- **2025.08** — I received the admission notice for the HKUST (Guangzhou) camp.
+- **2025.07** — My second invention patent was successfully granted after being rejected twice!
 - **2025.06** — Our paper on SI_CNNpro-enhanced test-data generation was published in *Journal of Systems and Software*.
+- **2025.05** — I was honored to be selected as one of the inaugural Youth Inspiration honorees at my university.
+- **2024.05** — My first invention patent was successfully granted!
 
 <span class="anchor" id="publications"></span>
 
