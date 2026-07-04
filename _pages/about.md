@@ -85,10 +85,17 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 # 🧪 Projects
 
-- **Knowledge Graph-Driven Intelligent Algorithms Integrated with Neural Networks for Software Defect Prediction**  
-  **Lei Tao** (Project Leader), **Jiale Wang** (Co-Leader); Kai Cao, Yujie Wang, Xinlan Zhou (Participants)  
-  **Completed** · National University Student Innovation and Entrepreneurship Training Program (Jiangsu Provincial, 2024) · Project No. **202411998019Z** · Certificate No. **20240298**  
-  Supervisor: **Juxin Hu**, Xuzhou University of Technology
+<div class="project-card" markdown="1">
+
+### Knowledge Graph-Driven Intelligent Algorithms Integrated with Neural Networks for Software Defect Prediction
+
+<p class="project-line project-line--team"><strong>Lei Tao</strong> (Project Leader), <strong>Jiale Wang</strong> (Co-Leader); Kai Cao, Yujie Wang, Xinlan Zhou (Participants)</p>
+
+<p class="project-line project-line--meta"><span class="project-status">Completed</span> National University Student Innovation and Entrepreneurship Training Program (Jiangsu Provincial, 2024) · Project No. <strong>202411998019Z</strong> · Certificate No. <strong>20240298</strong></p>
+
+<p class="project-line project-line--supervisor">Supervisor: <strong>Juxin Hu</strong>, Xuzhou University of Technology</p>
+
+</div>
 
 <span class="anchor" id="news"></span>
 
