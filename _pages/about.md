@@ -96,12 +96,31 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
   **Lei Tao**, Xiangying Dang  
   **已授权** · Chinese invention patent · **CN 118014316 B**, 2024. [[Patent PDF]](https://weaslypaper-coder.github.io/LT/files/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A91.pdf)
 
+<span class="anchor" id="awards"></span>
+
+# 🏆 Honors and Awards
+
+### Mathematical Modeling Competitions
+
+- **2025** — **Second Prize (Provincial)**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
+- **2024** — **Meritorious Winner**, Interdisciplinary Contest in Modeling (MCM/ICM).
+- **2024** — **Grand Prize**, Huashu Cup International Mathematical Contest in Modeling.
+- **2024** — **First Prize**, Asia-Pacific Mathematical Contest in Modeling (APMCM).
+- **2024** — **First Prize**, May Day Mathematical Contest in Modeling.
+- **2024** — **Third Prize**, JD Logistics Supply Chain Competition; JD campus recruitment fast track.
+
+### University Honors
+
+- **Outstanding Graduate Award** (model graduate), Xuzhou University of Technology.
+- **University Merit Student**, 2024–2025.
+- **University Special Scholarship**, Xuzhou University of Technology.
+
 <span class="anchor" id="education"></span>
 
 # 🎓 Education
 
 - **M.Phil. student**, The Hong Kong University of Science and Technology (Guangzhou), incoming September 2026.
-- **B.E. in Software Engineering**, Xuzhou University of Technology.
+- **B.E. in Software Engineering**, Xuzhou University of Technology (overall academic ranking: 1/65).
 
 <span class="anchor" id="talks"></span>
 
