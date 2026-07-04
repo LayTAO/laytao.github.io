@@ -39,6 +39,12 @@ I am always happy to discuss research ideas and potential collaborations. Feel f
 # 📝 Selected Publications
 
 <div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">JSS 2025</div>
+      <img src="images/publications/jss2025.png" alt="Optimizing Test Data Generation Using SI_CNNpro-Enhanced MGA for Mutation Testing" width="100%">
+    </div>
+  </div>
   <div class="paper-box-text" markdown="1">
 
 ### [Optimizing Test Data Generation Using SI_CNNpro-Enhanced MGA for Mutation Testing](https://doi.org/10.1016/j.jss.2025.112517)
@@ -54,6 +60,12 @@ I am always happy to discuss research ideas and potential collaborations. Feel f
 </div>
 
 <div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Mathematics 2026</div>
+      <img src="images/publications/mathematics2026.png" alt="Efficient Multiple Path Coverage in Mutation Testing with Fuzzy Clustering-Integrated MF_CNNpro_PSO" width="100%">
+    </div>
+  </div>
   <div class="paper-box-text" markdown="1">
 
 ### [Efficient Multiple Path Coverage in Mutation Testing with Fuzzy Clustering-Integrated MF_CNNpro_PSO](https://www.mdpi.com/2227-7390/14/1/47)
