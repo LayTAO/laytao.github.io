@@ -113,6 +113,51 @@ body {
     background: linear-gradient(180deg, #f7faff 0, #ffffff 260px);
 }
 
+@include breakpoint($large) {
+    #main {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 2.5rem;
+        max-width: 1080px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+
+        &::before,
+        &::after {
+            display: none;
+        }
+
+        > .sidebar,
+        > .page {
+            float: none;
+            width: auto;
+            margin-left: 0;
+            margin-right: 0;
+            padding-left: 0;
+            padding-right: 0;
+        }
+
+        > .sidebar {
+            flex: 0 0 200px;
+            max-width: 200px;
+        }
+
+        > .page {
+            flex: 1 1 720px;
+            min-width: 0;
+            max-width: 720px;
+        }
+    }
+
+    .masthead__inner-wrap {
+        max-width: 1080px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 .masthead {
     background: rgba(255, 255, 255, .92);
     backdrop-filter: blur(12px);
