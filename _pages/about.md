@@ -76,10 +76,19 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 - **Software Testing Method for Intelligent Equipment Combining CNN and Genetic Algorithm.**  
   **Lei Tao**, Xiangying Dang, Bingsen Huang, Tianhao Chen  
-  **已授权** · Chinese invention patent · **CN 119988236 B**, 2025. [[Patent PDF]](https://weaslypaper-coder.github.io/LT/files/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A92.pdf)
+  **已授权** · Chinese invention patent · **CN 119988236 B**, 2025. [[Patent PDF]](files/patents/cn119988236b.pdf)
 - **Scheduling Method of Blocking Water Turbines Based on Improved Genetic Algorithm.**  
   **Lei Tao**, Xiangying Dang  
-  **已授权** · Chinese invention patent · **CN 118014316 B**, 2024. [[Patent PDF]](https://weaslypaper-coder.github.io/LT/files/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A91.pdf)
+  **已授权** · Chinese invention patent · **CN 118014316 B**, 2024. [[Patent PDF]](files/patents/cn118014316b.pdf)
+
+<span class="anchor" id="projects"></span>
+
+# 🧪 Projects
+
+- **Knowledge Graph-Driven Intelligent Algorithms Integrated with Neural Networks for Software Defect Prediction**  
+  **Lei Tao** (Project Leader), **Jiale Wang** (Co-Leader); Kai Cao, Yujie Wang, Xinlan Zhou (Participants)  
+  **Completed** · National University Student Innovation and Entrepreneurship Training Program (Jiangsu Provincial, 2024) · Project No. **202411998019Z** · Certificate No. **20240298**  
+  Supervisor: **Juxin Hu**, Xuzhou University of Technology
 
 <span class="anchor" id="news"></span>
 
