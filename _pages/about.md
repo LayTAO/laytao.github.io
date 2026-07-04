@@ -14,9 +14,11 @@ redirect_from:
 
 ## Hi, I'm Tao Lei.
 
-My research sits at the intersection of **large language models** and **software engineering**, with a particular interest in building reliable and efficient techniques for software testing.
+I am a new **MPhil student** in **Software Engineering** at **The Hong Kong University of Science and Technology (Guangzhou)**.
 
-I received my B.E. in **Software Engineering** from **Xuzhou University of Technology**. My undergraduate research focused on high-precision test-data generation for mutation testing. From December 2025 to March 2026, I worked as a Research Assistant at the **Systems Hub, HKUST (Guangzhou)**.
+I received my B.E. in **Software Engineering** from **Xuzhou University of Technology**. During my undergraduate studies, I was a core member of the university's **Intelligent Software Testing Lab**, where I conducted in-depth research on **Search-Based Software Engineering (SBSE)** and **evolutionary algorithms**, and applied these techniques to tackle complex software testing challenges.
+
+Going forward, I will continue my research within the broad field of **software engineering** at **HKUST(GZ)**, with a particular emphasis on emerging topics such as **automated program repair** and **coding agents**.
 
 I am always happy to discuss research ideas and potential collaborations. Feel free to reach me by [email](mailto:weaslypaper@163.com).
 
