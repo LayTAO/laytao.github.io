@@ -136,7 +136,7 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 # 🎓 Education
 
 - **M.Phil. student**, The Hong Kong University of Science and Technology (Guangzhou), incoming September 2026.
-- **B.E. in Software Engineering**, Xuzhou University of Technology (overall academic ranking: 1/65).
+- **B.E. in Software Engineering**, Xuzhou University of Technology (overall ranking: 1/65).
 
 <span class="anchor" id="talks"></span>
 
