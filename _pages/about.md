@@ -18,7 +18,7 @@ I am a new **MPhil student** at **The Hong Kong University of Science and Techno
 
 I received my B.E. in **Software Engineering** from **Xuzhou University of Technology**. During my undergraduate studies, I was a core member of the university's **Intelligent Software Testing Lab**, where I conducted in-depth research on **Search-Based Software Engineering (SBSE)** and **evolutionary algorithms**, and applied these techniques to tackle complex software testing challenges.
 
-Going forward, I will continue my research within the broad field of **software engineering** at **HKUST(GZ)**, with a particular emphasis on emerging topics such as **automated program repair** and **coding agents**.
+Going forward, I will enroll in the **Red Bird MPhil Program** at **HKUST(GZ)**, where I will work toward a **Master of Philosophy** degree. My research will build upon my prior experience, yet shift its core toward the synergy between **software engineering** and **large language models**—specifically investigating either how LLMs can transform SE practices (**LLM for SE**) or how SE principles can tame the complexity of LLM applications (**SE for LLM**).
 
 I am always happy to discuss research ideas and potential collaborations. Feel free to reach me by [email](mailto:weaslypaper@163.com).
 
