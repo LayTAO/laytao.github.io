@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Tao Lei — researcher in LLMs for software engineering."
+excerpt: "Tao Lei — MPhil student at HKUST (Guangzhou), researching coding agents and large language models for software engineering."
 author_profile: true
 redirect_from:
   - /about/
@@ -14,13 +14,13 @@ redirect_from:
 
 ## Hi, I'm Tao Lei.
 
-I am a new **MPhil student** at **The Hong Kong University of Science and Technology (Guangzhou)**.
+I am currently an **MPhil student** at **The Hong Kong University of Science and Technology (Guangzhou)**, under the supervision of [**Professor Zishuo Ding**](https://personal.hkust-gz.edu.cn/ding/).
 
-I received my B.E. in **Software Engineering** from **Xuzhou University of Technology**. During my undergraduate studies, I was a core member of the university's **Intelligent Software Testing Lab**, where I conducted in-depth research on **Search-Based Software Engineering (SBSE)** and **evolutionary algorithms**, and applied these techniques to tackle complex software testing challenges.
+My previous research focused on **Search-Based Software Engineering (SBSE)** and **evolutionary algorithms**, particularly their application to **software test data generation**.
 
-Going forward, I will enroll in the **Red Bird MPhil Program** at **HKUST(GZ)**, where I will work toward a **Master of Philosophy** degree. My research will build upon my prior experience, yet shift its core toward the synergy between **software engineering** and **large language models**—specifically investigating either how LLMs can transform SE practices (**LLM for SE**) or how SE principles can tame the complexity of LLM applications (**SE for LLM**).
+My current research interests lie in **coding agents** and **large language models (LLMs)**. In particular, I am interested in leveraging these technologies to address complex software engineering tasks, including software testing, debugging, and automated program repair.
 
-I am always happy to discuss research ideas and potential collaborations. Feel free to reach me by [email](mailto:weaslypaper@163.com).
+I am always happy to discuss research ideas and potential collaborations. Feel free to reach me by [email](mailto:ltao615@connect.hkust-gz.edu.cn).
 
 </div>
 
@@ -101,12 +101,8 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 # 🔥 News
 
-- **2026.09** — I will begin my M.Phil. study at HKUST (Guangzhou), focusing on LLMs for software engineering.
-- **2026.03** — I completed my research assistantship at the Systems Hub, HKUST (Guangzhou).
 - **2025.12** — Our paper on efficient multi-path coverage in mutation testing was published in *Mathematics*.
-- **2025.10** — I was honored to speak as a student representative at the freshman opening ceremony at **Xuzhou University of Technology**.
 - **2025.09** — I received a Red Bird MPhil admission offer from HKUST (Guangzhou).
-- **2025.08** — I received the admission notice for the HKUST (Guangzhou) camp.
 - **2025.07** — My second invention patent was successfully granted after being rejected twice!
 - **2025.06** — Our paper on SI_CNNpro-enhanced test-data generation was published in *Journal of Systems and Software*.
 - **2025.05** — I was honored to be selected as one of the inaugural Youth Inspiration honorees at my university.
@@ -135,7 +131,7 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 # 🎓 Education
 
-- **M.Phil. student**, The Hong Kong University of Science and Technology (Guangzhou), incoming September 2026.
+- **M.Phil. student**, The Hong Kong University of Science and Technology (Guangzhou).
 - **B.E. in Software Engineering**, Xuzhou University of Technology (overall ranking: 1/65).
 
 <span class="anchor" id="talks"></span>
