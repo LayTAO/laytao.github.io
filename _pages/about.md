@@ -114,12 +114,12 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 ### Competition Awards
 
-- **2025** — **Second Prize (Provincial)**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
+- **2025** — **Second Prize (Provincial)**, China Undergraduate Mathematical Contest in Modeling (CUMCM)（全国大学生数学建模竞赛）.
 - **2024** — **Second Prize**, The Mathematical Contest in Modeling (MCM)（美国大学生数学建模竞赛）.
-- **2024** — **Grand Prize**, Huashu Cup International Mathematical Contest in Modeling.
+- **2024** — **Grand Prize**, Huashu Cup International Mathematical Contest in Modeling（特等奖 Outstanding Paper）.
 - **2024** — **First Prize**, Asia-Pacific Mathematical Contest in Modeling (APMCM).
 - **2024** — **First Prize**, May Day Mathematical Contest in Modeling.
-- **2024** — **Third Prize**, JD Logistics Supply Chain Competition; JD campus recruitment fast track.
+- **2024** — **Third Prize**, JD Logistics Supply Chain Competition; JD campus recruitment fast track（京东校招直通车）.
 
 ### University Honors
 
@@ -131,8 +131,8 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 # 🎓 Education
 
-- **M.Phil. student**, The Hong Kong University of Science and Technology (Guangzhou).
-- **B.E. in Software Engineering**, Xuzhou University of Technology (overall ranking: 1/65).
+- **M.Phil. student**, The Hong Kong University of Science and Technology (Guangzhou), **2026.09–present**.
+- **B.E. in Software Engineering**, Xuzhou University of Technology (overall ranking: 1/65), **2022.09–2026.06**.
 
 <span class="anchor" id="talks"></span>
 
