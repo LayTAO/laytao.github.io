@@ -12,7 +12,7 @@ redirect_from:
 
 <div class="intro-card" markdown="1">
 
-## Hi, I'm Tao Lei.
+## Hi, I’m Tao Lei（陶磊）.
 
 I am currently an **MPhil student** at **The Hong Kong University of Science and Technology (Guangzhou)**, under the supervision of [**Professor Zishuo Ding**](https://personal.hkust-gz.edu.cn/ding/).
 
@@ -112,10 +112,10 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 # 🏆 Honors and Awards
 
-### Mathematical Modeling Competitions
+### Competition Awards
 
 - **2025** — **Second Prize (Provincial)**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
-- **2024** — **Meritorious Winner**, Interdisciplinary Contest in Modeling (MCM/ICM).
+- **2024** — **美国大学生数学建模竞赛二等奖**（**Meritorious Winner**, The Interdisciplinary Contest in Modeling (ICM)）.
 - **2024** — **Grand Prize**, Huashu Cup International Mathematical Contest in Modeling.
 - **2024** — **First Prize**, Asia-Pacific Mathematical Contest in Modeling (APMCM).
 - **2024** — **First Prize**, May Day Mathematical Contest in Modeling.
