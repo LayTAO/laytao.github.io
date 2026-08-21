@@ -115,7 +115,7 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 ### Competition Awards
 
 - **2025** — **Second Prize (Provincial)**, China Undergraduate Mathematical Contest in Modeling (CUMCM).
-- **2024** — **Second Prize**, The Interdisciplinary Contest in Modeling (ICM).
+- **2024** — **Second Prize**, The Mathematical Contest in Modeling (MCM)（美国大学生数学建模竞赛）.
 - **2024** — **Grand Prize**, Huashu Cup International Mathematical Contest in Modeling.
 - **2024** — **First Prize**, Asia-Pacific Mathematical Contest in Modeling (APMCM).
 - **2024** — **First Prize**, May Day Mathematical Contest in Modeling.
