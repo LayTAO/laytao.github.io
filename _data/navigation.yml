@@ -12,12 +12,6 @@ main:
   - title: "Projects"
     url: "#projects"
 
-  - title: "News"
-    url: "#news"
-
-  - title: "Awards"
-    url: "#awards"
-
   - title: "Education"
     url: "#education"
 

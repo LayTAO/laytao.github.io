@@ -97,36 +97,6 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 </div>
 
-<span class="anchor" id="news"></span>
-
-# 🔥 News
-
-- **2025.12** — Our paper on efficient multi-path coverage in mutation testing was published in *Mathematics*.
-- **2025.09** — I received a Red Bird MPhil admission offer from HKUST (Guangzhou).
-- **2025.07** — My second invention patent was successfully granted after being rejected twice!
-- **2025.06** — Our paper on SI_CNNpro-enhanced test-data generation was published in *Journal of Systems and Software*.
-- **2025.05** — I was honored to be selected as one of the inaugural Youth Inspiration honorees at my university.
-- **2024.05** — My first invention patent was successfully granted!
-
-<span class="anchor" id="awards"></span>
-
-# 🏆 Honors and Awards
-
-### Competition Awards
-
-- **2025** — **Second Prize (Provincial)**, China Undergraduate Mathematical Contest in Modeling (CUMCM)（全国大学生数学建模竞赛）.
-- **2024** — **Second Prize**, The Mathematical Contest in Modeling (MCM)（美国大学生数学建模竞赛）.
-- **2024** — **Grand Prize**, Huashu Cup International Mathematical Contest in Modeling（特等奖 Outstanding Paper）.
-- **2024** — **First Prize**, Asia-Pacific Mathematical Contest in Modeling (APMCM).
-- **2024** — **First Prize**, May Day Mathematical Contest in Modeling.
-- **2024** — **Third Prize**, JD Logistics Supply Chain Competition; JD campus recruitment fast track（京东校招直通车）.
-
-### University Honors
-
-- **Outstanding Graduate Award** (model graduate), Xuzhou University of Technology.
-- **University Merit Student**, 2024–2025.
-- **University Special Scholarship**, Xuzhou University of Technology.
-
 <span class="anchor" id="education"></span>
 
 # 🎓 Education
@@ -146,4 +116,4 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 # 💻 Research Experience
 
-- **Research Assistant**, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), December 2025 – March 2026.
+- **Research Assistant (Intern)**, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), May 2026 – August 2026.
