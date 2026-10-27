@@ -116,4 +116,4 @@ Qian Qu, Xiangying Dang, Heng Xia, **Lei Tao**
 
 # 💻 Research Experience
 
-- **Research Assistant (Intern)**, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), May 2026 – August 2026.
+- **Research Assistant (Intern)**, Information Hub, The Hong Kong University of Science and Technology (Guangzhou), May 2026 – August 2026.
